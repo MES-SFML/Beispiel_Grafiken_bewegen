@@ -1,6 +1,6 @@
 # Beispiel_Grafiken_bewegen
 
-#01. Laser
+# 01. Laser
    
 Einen roten Strich mit der Tastatur bewegen:
 
